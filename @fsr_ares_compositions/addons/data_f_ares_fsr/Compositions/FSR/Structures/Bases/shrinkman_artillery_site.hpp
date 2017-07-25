@@ -1,0 +1,12 @@
+class Object1 {side=8;vehicle="Land_HBarrierWall6_F";rank="";position[]={-5.48633,-4.89063,-0.00143886};dir=210;};
+class Object2 {side=8;vehicle="Land_HBarrierWall6_F";rank="";position[]={3.45898,7.35156,-0.00143886};dir=60;};
+class Object3 {side=8;vehicle="Land_HBarrierWall_corner_F";rank="";position[]={-0.322266,12.3574,-0.00143886};dir=0;};
+class Object4 {side=8;vehicle="Land_HBarrierWall_corner_F";rank="";position[]={-12.3066,-1.64258,-0.00143886};dir=180;};
+class Object5 {side=8;vehicle="Land_HBarrierWall6_F";rank="";position[]={0.160156,-14.8086,-0.00143886};dir=180;};
+class Object6 {side=8;vehicle="Land_HBarrierWall6_F";rank="";position[]={14.8516,2.83203,-0.00143886};dir=90;};
+class Object7 {side=8;vehicle="Land_HBarrierWall6_F";rank="";position[]={-14.4805,3.88281,-0.00143886};dir=270;};
+class Object8 {side=8;vehicle="Land_HBarrierWall6_F";rank="";position[]={-7.78906,13.5234,-0.00143886};dir=0;};
+class Object9 {side=8;vehicle="Land_HBarrierWall6_F";rank="";position[]={14.8516,-5.16797,-0.00143886};dir=90;};
+class Object10 {side=8;vehicle="Land_HBarrierWall6_F";rank="";position[]={8.16016,-14.8086,-0.00143886};dir=180;};
+class Object11 {side=8;vehicle="Land_HBarrierWall_corner_F";rank="";position[]={-13.3145,11.3496,-0.00143886};dir=270;};
+class Object12 {side=8;vehicle="Land_HBarrierWall_corner_F";rank="";position[]={13.6855,-12.6348,-0.00143886};dir=90;};
